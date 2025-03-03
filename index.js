@@ -10,7 +10,7 @@ const client = new Client({
 });
 
 // Token del bot (Reemplázalo con el tuyo)
-const TOKEN = "MTM0NTUwNjU2NzE5MzEwNDQ0NQ.GwbFKE.7BgyEUPvRkwZZBhD9HJT268kAQqTlo_bgC-pY8";
+const TOKEN = "";
 
 // Evento cuando el bot se conecta
 client.once("ready", () => {
